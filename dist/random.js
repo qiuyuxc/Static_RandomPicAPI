@@ -4,7 +4,7 @@
  */
 (function() {
     var counts = {"h":980,"v":3596};
-    var domain = 'https://pic.quiyu.cn';
+    var domain = 'https://pic.kukie.cn';
     
     // State management for session consistency
     var sessionRandomH = null;
